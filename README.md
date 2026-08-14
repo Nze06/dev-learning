@@ -1,5 +1,5 @@
 # dev-learning
-Hello there, I am Arinzechukwu Nwosu. This is my central repository where I track my code challenges and monitor my technical growth and portfolio projects. 
+Hello there, I am Arinzechukwu Nwosu. I am a passionate DevOps learner focusing on developing scalable Automation, Cloud Infrastructure, and CI/CD process chain. I combine standard infrastructure practices with modern development and data analysis tools to develop intelligent pipelines. This is my central repository where I track my code challenges and monitor my technical growth and portfolio projects. 
 
 ## 🛠️ Tech Stack & Skills
 * *Frontend:* HTML5, CSS, JavaScript.
@@ -8,7 +8,7 @@ Hello there, I am Arinzechukwu Nwosu. This is my central repository where I trac
 * *Emerging Tech:* AI Tools & Integrations.
 
 ## 📂 Repository Structure
+* Data-Analytics: Manipulating data through SQL and spreesheets.
 * Frontend: Responsive layouts, UI components, and DOM manipulation scripts.
 * Python: Automation scripts, algorithms, and logic practice.
-* Data-analytics: Database schemas, complex SQL queries, and spreadsheets.
 * AI-labs: Prompt engineering, API experiments, and machine learning models.
